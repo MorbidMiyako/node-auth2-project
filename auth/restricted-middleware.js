@@ -1,4 +1,4 @@
-const jwt = require("jsonwebtoken"); //<<<install this npm package
+const jwt = require("jsonwebtoken");
 
 const { jwtSecret } = require("../config/secrets.js");
 
